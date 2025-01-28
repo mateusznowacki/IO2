@@ -1,4 +1,4 @@
-package main.Model;
+package model;
 
 import java.util.Vector;
 

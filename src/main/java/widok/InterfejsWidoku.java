@@ -1,8 +1,8 @@
-package main.Widok;
+package widok;
 
 
-import main.Model.Obywatel;
-import main.Prezenter.Wniosek;
+import model.Obywatel;
+import prezenter.Wniosek;
 
 public interface InterfejsWidoku {
     void WyswietlFormularz(Wniosek w);

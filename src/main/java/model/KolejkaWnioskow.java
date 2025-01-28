@@ -1,7 +1,8 @@
-package main.Model;
+package model;
 
-import Prezenter.*;
-import main.Prezenter.Wniosek;
+
+
+import prezenter.Wniosek;
 
 import java.util.Vector;
 

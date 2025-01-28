@@ -1,7 +1,7 @@
-package main.Model;
+package model;
 
-import main.Prezenter.*;
-import main.Prezenter.Wniosek;
+
+import prezenter.Wniosek;
 
 public interface InterfejsModelu {
 //	boolean WykonajWniosek(Wniosek w);

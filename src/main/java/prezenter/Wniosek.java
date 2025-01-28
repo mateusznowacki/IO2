@@ -1,4 +1,4 @@
-package main.Prezenter;
+package prezenter;
 import java.util.HashMap;
 
 public abstract class Wniosek {

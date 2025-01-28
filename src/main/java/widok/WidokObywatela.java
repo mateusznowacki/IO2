@@ -1,8 +1,9 @@
-package main.Widok;
+package widok;
 
-import main.Model.Obywatel;
-import main.Prezenter.Wniosek;
-import main.Prezenter.WniosekOAktualizacjeDanych;
+
+import model.Obywatel;
+import prezenter.Wniosek;
+import prezenter.WniosekOAktualizacjeDanych;
 
 import java.util.Objects;
 import java.util.Scanner;

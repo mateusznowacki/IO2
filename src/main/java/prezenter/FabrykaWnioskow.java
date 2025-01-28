@@ -1,4 +1,4 @@
-package main.Prezenter;
+package prezenter;
 
 public class FabrykaWnioskow {
 

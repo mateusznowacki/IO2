@@ -1,9 +1,9 @@
-package main.Model;
+package model;
 
-import main.Prezenter.Wniosek;
-import main.Prezenter.WniosekOAktualizacjeDanych;
-import main.Prezenter.WniosekOSmierc;
 
+import prezenter.Wniosek;
+import prezenter.WniosekOAktualizacjeDanych;
+import prezenter.WniosekOSmierc;
 
 public class Model implements InterfejsModelu {
     KolejkaWnioskow kolejka;

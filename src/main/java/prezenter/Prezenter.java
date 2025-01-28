@@ -1,10 +1,11 @@
-package main.Prezenter;
+package prezenter;
 
-import main.Model.InterfejsModelu;
-import main.Model.Model;
-import main.Model.Obywatel;
-import main.Widok.InterfejsWidoku;
-import main.Widok.WidokObywatela;
+
+import model.InterfejsModelu;
+import model.Model;
+import model.Obywatel;
+import widok.InterfejsWidoku;
+import widok.WidokObywatela;
 
 public class Prezenter {
     private final FabrykaWnioskow fabrykaWnioskow;

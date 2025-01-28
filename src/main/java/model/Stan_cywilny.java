@@ -1,4 +1,4 @@
-package main.Model;
+package model;
 
 public enum Stan_cywilny {
 	;
